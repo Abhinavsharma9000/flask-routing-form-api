@@ -1,4 +1,4 @@
-# Flask Routing, Forms & API Example
+## Flask Routing, Forms & API Example
 
 This repository contains a beginner-friendly Flask application demonstrating:
 
